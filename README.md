@@ -1,12 +1,12 @@
 # WhoPG (04.07.20 — 01.08.20)
 
-https://who-pe.ga/
+https://shtrih.github.io/whopg-wheel/
 
 Колесо для стримерского ивента WhoPG на https://twitch.tv.
 
 ---
 WhoPG — это ивент восходящих стримеров, которые проходят игры. 
-Участники: Westmage, Balabama, NAMVSEYASNO, usachman - https://who-pe.ga/rules/
+Участники: Westmage, Balabama, NAMVSEYASNO, usachman - https://shtrih.github.io/whopg-wheel/rules/
 
 Победителем становится тот, у кого по окончании ивента больше всего поинтов (GGP).
 
